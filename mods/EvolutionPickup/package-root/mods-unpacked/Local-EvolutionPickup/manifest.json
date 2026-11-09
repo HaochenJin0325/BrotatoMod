@@ -1,0 +1,15 @@
+{
+  "name": "EvolutionPickup",
+  "namespace": "Local",
+  "version_number": "1.0.2",
+  "description": "机械或变异达到3点后，+1进化果实继承材料吸附范围和直接拾取概率，波次结束时自动吸附。",
+  "website_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3832998906",
+  "dependencies": [],
+  "extra": {
+    "godot": {
+      "authors": ["Local"],
+      "compatible_game_version": ["1.2.0.1"],
+      "compatible_mod_loader_version": ["6.3.0"]
+    }
+  }
+}
