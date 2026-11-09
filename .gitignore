@@ -1,0 +1,11 @@
+# Local game extraction tools and recovered game files (large and not part of the Mods)
+/.tools/
+
+# Local rollback snapshots; releases and source packages stay tracked
+/mods/*/archive/
+
+# Generated editor/cache files
+**/.godot/
+*.log
+.DS_Store
+Thumbs.db

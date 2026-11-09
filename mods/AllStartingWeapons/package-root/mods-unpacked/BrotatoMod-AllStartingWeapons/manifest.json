@@ -1,0 +1,17 @@
+{
+  "name": "AllStartingWeapons",
+  "namespace": "BrotatoMod",
+  "version_number": "1.1.0",
+  "description": "Choose weapons from every available tier and enabled DLC at run start.",
+  "website_url": "",
+  "dependencies": [],
+  "extra": {
+    "godot": {
+      "incompatibilities": [],
+      "authors": ["BrotatoMod"],
+      "compatible_mod_loader_version": ["6.2.0"],
+      "compatible_game_version": ["1.2.0.1"],
+      "config_defaults": {}
+    }
+  }
+}
