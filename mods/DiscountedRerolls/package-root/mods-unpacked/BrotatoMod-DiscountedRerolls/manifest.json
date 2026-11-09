@@ -1,8 +1,8 @@
 {
   "name": "DiscountedRerolls",
   "namespace": "BrotatoMod",
-  "version_number": "1.0.0",
-  "description": "Shop and upgrade reroll prices reduced by 60%",
+  "version_number": "1.0.1",
+  "description": "Shop and upgrade reroll prices reduced by 60%, rounded down to zero",
   "website_url": "",
   "dependencies": [],
   "extra": {
