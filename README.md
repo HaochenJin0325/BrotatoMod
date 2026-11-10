@@ -10,6 +10,7 @@
 | `mods/DiscountedRerolls/` | `BrotatoMod-DiscountedRerolls` | 1.0.1 | 商店刷新和升级刷新均按原价的 40% 收费（降低 60%），向下取整且最低为 0。 |
 | `mods/EvolutionPickup/` | `Local-EvolutionPickup` | 1.0.2 | 机械或异变进化值达到 3 后，自动吸附对应路线的进化果实；保留原 Workshop Mod 行为。 |
 | `mods/FreeShopRefresh/` | `BrotatoMod-FreeShopRefresh` | 1.0.1 | 商店刷新和升级刷新免费。 |
+| `mods/HeroEditor/` | `BrotatoMod-HeroEditor` | 1.0.11 | 每局可选择两个已解锁角色；被动卡片使用较小字号并支持滚动，合成界面随视口放大；合并角色效果、开局内容和禁用列表。 |
 
 `DiscountedRerolls` 与 `FreeShopRefresh` 不要同时启用：免费刷新 Mod 会将升级刷新价格设为 0。
 
