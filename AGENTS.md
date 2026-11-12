@@ -13,6 +13,9 @@
 - `mods/FreeShopRefresh/`：已存在的免费刷新 Mod。
 - `mods/AllStartingWeapons/`：让角色可从所有可用等级及已启用 DLC 武器中选择起始武器。
 - `mods/HeroEditor/`：选两个已解锁角色，临时合并其效果、起始内容和禁用列表。
+- `mods/UnlimitedBans/`：移除游戏自带商店和升级道具箱禁用次数上限。
+- `mods/EndlessEvolutionPickup/`：第 21 波起保留 EvolutionPickup 的进化果实吸附功能。
+- `mods/EndlessUnlimitedPickupRange/`：第 21 波起保留 Unlimited Pickup Range 的无限距离拾取功能。
 
 ## 当前环境
 

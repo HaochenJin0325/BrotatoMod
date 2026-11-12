@@ -9,7 +9,10 @@
 | `mods/AllStartingWeapons/` | `BrotatoMod-AllStartingWeapons` | 1.1.0 | 在开局武器选择界面显示所有当前可用等级的武器，包括已启用 DLC 中的武器。仍遵守角色的近战/远程限制和内容可用性。 |
 | `mods/DiscountedRerolls/` | `BrotatoMod-DiscountedRerolls` | 1.0.1 | 商店刷新和升级刷新均按原价的 40% 收费（降低 60%），向下取整且最低为 0。 |
 | `mods/EvolutionPickup/` | `Local-EvolutionPickup` | 1.0.2 | 机械或异变进化值达到 3 后，自动吸附对应路线的进化果实；保留原 Workshop Mod 行为。 |
+| `mods/EndlessEvolutionPickup/` | `BrotatoMod-EndlessEvolutionPickup` | 1.0.0 | 保留进化果实吸附功能，仅在无尽模式第 21 波起生效。 |
+| `mods/EndlessUnlimitedPickupRange/` | `BrotatoMod-EndlessUnlimitedPickupRange` | 1.0.0 | 保留无限距离拾取与 F 键开关，仅在无尽模式第 21 波起生效。 |
 | `mods/FreeShopRefresh/` | `BrotatoMod-FreeShopRefresh` | 1.0.1 | 商店刷新和升级刷新免费。 |
+| `mods/UnlimitedBans/` | `BrotatoMod-UnlimitedBans` | 1.0.0 | 在原版禁用功能解锁并启用后，可无限禁用商店物品和升级道具箱物品。 |
 | `mods/HeroEditor/` | `BrotatoMod-HeroEditor` | 1.0.11 | 每局可选择两个已解锁角色；被动卡片使用较小字号并支持滚动，合成界面随视口放大；合并角色效果、开局内容和禁用列表。 |
 
 `DiscountedRerolls` 与 `FreeShopRefresh` 不要同时启用：免费刷新 Mod 会将升级刷新价格设为 0。

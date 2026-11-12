@@ -1,0 +1,17 @@
+{
+  "name": "EndlessUnlimitedPickupRange",
+  "namespace": "BrotatoMod",
+  "version_number": "1.0.0",
+  "description": "Unlimited pickup range, enabled only after wave 20 in Endless mode.",
+  "website_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2951545839",
+  "dependencies": [],
+  "extra": {
+    "godot": {
+      "incompatibilities": [],
+      "authors": ["BrotatoMod", "Based on Untargetable's Unlimited Pickup Range"],
+      "compatible_mod_loader_version": ["6.2.0"],
+      "compatible_game_version": ["1.2.0.1"],
+      "config_defaults": {}
+    }
+  }
+}

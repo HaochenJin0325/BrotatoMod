@@ -1,0 +1,17 @@
+{
+  "name": "UnlimitedBans",
+  "namespace": "BrotatoMod",
+  "version_number": "1.0.0",
+  "description": "Removes the per-run limit on banning shop and item-box items.",
+  "website_url": "",
+  "dependencies": [],
+  "extra": {
+    "godot": {
+      "incompatibilities": [],
+      "authors": ["BrotatoMod"],
+      "compatible_mod_loader_version": ["6.2.0"],
+      "compatible_game_version": ["1.2.0.1"],
+      "config_defaults": {}
+    }
+  }
+}
